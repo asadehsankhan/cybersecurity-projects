@@ -1,2 +1,2 @@
 Google Cybersecurity Portfolio
-This folder contains my hands-on labs and reports from the Google Cybersecurity Certificate.
+This folder contains hands-on activity reports completed as part of the Google Cybersecurity Professional Certificate.
